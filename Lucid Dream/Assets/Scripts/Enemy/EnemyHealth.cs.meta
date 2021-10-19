@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9b9d14572410594cb85d40eedfb150c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathClip: {instanceID: 0}
+  - otherGameObject: {fileID: 100006, guid: 4e5a0d387dc27394b81600988ad0216f, type: 3}
+  - enemyHealthText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
