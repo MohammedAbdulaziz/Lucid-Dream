@@ -1,2 +1,2 @@
-# Bowling-Mania
-Incomplete Bowling mini Unity game project
+# Lucid-Dream
+Modified Unity game project from Unity game development course
